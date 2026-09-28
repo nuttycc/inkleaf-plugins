@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "repoName": "Inkleaf 插件仓库",
+  "apiVersion": "1.2",
+  "plugins": [
+    {
+      "id": "io.inkleaf.source.copycomic",
+      "name": "拷贝漫画",
+      "version": "0.4.3",
+      "apiVersion": "1.1",
+      "capabilities": ["search", "detail", "chapters", "pages", "browse", "settings"],
+      "description": "拷贝漫画 (CopyComic) 在线漫画源。",
+      "author": "Inkleaf",
+      "pkgUrl": "https://raw.githubusercontent.com/nuttycc/inkleaf-plugins/main/plugins/copycomic-plugin-v0.4.3.zip",
+      "sha256": "15dcff58aa82149fb58a320ecffbc3cd39f223b0bc6250ddc322dca8782384cd",
+      "sizeBytes": 7670
+    },
+    {
+      "id": "io.inkleaf.source.zaimanhua",
+      "name": "再漫画",
+      "version": "0.1.0",
+      "apiVersion": "1.2",
+      "capabilities": ["search", "detail", "chapters", "pages", "browse", "settings"],
+      "description": "再漫画 (zaimanhua) 在线漫画源。",
+      "author": "Inkleaf",
+      "pkgUrl": "https://raw.githubusercontent.com/nuttycc/inkleaf-plugins/main/plugins/zaimanhua-plugin-v0.1.0.zip",
+      "sha256": "39e849559fbd1340f0ea0e50b290fe3cb5ee84ee531b701b49b81dde441e114d",
+      "sizeBytes": 9611
+    },
+    {
+      "id": "io.inkleaf.fixture",
+      "name": "Inkleaf Fixture Source",
+      "version": "1.0.0",
+      "apiVersion": "1.0",
+      "capabilities": ["search", "detail", "chapters", "pages"],
+      "description": "A deterministic source used for manual plugin runtime checks.",
+      "author": "Inkleaf",
+      "pkgUrl": "https://raw.githubusercontent.com/nuttycc/inkleaf-plugins/main/plugins/inkleaf-fixture-plugin-v1.0.0.zip",
+      "sha256": "03dfed60ddd4c4c2ed9027dd85c71a7e62a596a3b55195da24a45aad79815dd6",
+      "sizeBytes": 1520
+    }
+  ]
+}
