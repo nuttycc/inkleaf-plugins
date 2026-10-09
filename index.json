@@ -28,6 +28,18 @@
       "sizeBytes": 9611
     },
     {
+      "id": "io.inkleaf.source.jmcomic",
+      "name": "禁漫天堂",
+      "version": "0.1.1",
+      "apiVersion": "1.2",
+      "capabilities": ["search", "detail", "chapters", "pages", "browse", "settings"],
+      "description": "禁漫天堂 (18comic) 在线漫画源，移动端接口。阅读需要宿主支持 jmSegmentation 图片解扰。",
+      "author": "Inkleaf",
+      "pkgUrl": "https://raw.githubusercontent.com/nuttycc/inkleaf-plugins/main/plugins/jmcomic-plugin-v0.1.1.zip",
+      "sha256": "160533cf4e8841715f0ca7846598726ece32068dfcaec4b16b9170e90145f93d",
+      "sizeBytes": 13803
+    },
+    {
       "id": "io.inkleaf.fixture",
       "name": "Inkleaf Fixture Source",
       "version": "1.0.0",
