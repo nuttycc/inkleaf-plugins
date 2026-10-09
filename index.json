@@ -6,14 +6,14 @@
     {
       "id": "io.inkleaf.source.copycomic",
       "name": "拷贝漫画",
-      "version": "0.4.3",
+      "version": "0.4.4",
       "apiVersion": "1.1",
       "capabilities": ["search", "detail", "chapters", "pages", "browse", "settings"],
       "description": "拷贝漫画 (CopyComic) 在线漫画源。",
       "author": "Inkleaf",
-      "pkgUrl": "https://raw.githubusercontent.com/nuttycc/inkleaf-plugins/main/plugins/copycomic-plugin-v0.4.3.zip",
-      "sha256": "15dcff58aa82149fb58a320ecffbc3cd39f223b0bc6250ddc322dca8782384cd",
-      "sizeBytes": 7670
+      "pkgUrl": "https://raw.githubusercontent.com/nuttycc/inkleaf-plugins/main/plugins/copycomic-plugin-v0.4.4.zip",
+      "sha256": "eece3c6038c41a15b4057d046f912b3dd59b3643c96f7cacbe5f93c82afdd5ba",
+      "sizeBytes": 7677
     },
     {
       "id": "io.inkleaf.source.zaimanhua",
